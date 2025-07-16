@@ -1,0 +1,41 @@
+body{
+    display:flex;
+    border:2px solid black;
+    border-radius:5px;
+    margin:auto;
+    padding:10px;
+    justify-content: center;
+    width:250px;
+    
+}
+
+#parent{
+ display:grid;
+ grid-template-columns: repeat(4,1fr);
+ justify-content: center;
+ margin: 20px;
+ gap:10px; 
+ padding:10px;
+ background-color: dimgrey;
+}
+
+.key{
+    border:1px solid black;
+    border-radius: 5px;
+    grid-template-rows: repeat(5,1fr);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor:pointer;
+    height:50px;
+    width:50px;
+    margin:3px;
+}
+.key.wide{
+    width:95%;
+    grid-column: span 2;
+}
+
+
+
+
