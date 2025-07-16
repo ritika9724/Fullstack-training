@@ -1,2 +1,3 @@
-![Screenshot 2025-07-02 110754](https://github.com/user-attachments/assets/11857beb-93f4-4af0-93d4-812916d6869d)
-![Screenshot 2025-07-02 111055](https://github.com/user-attachments/assets/afc7b857-b3c8-4396-a726-56482299aa35)
+<img width="1892" height="931" alt="Screenshot 2025-07-02 110754" src="https://github.com/user-attachments/assets/ae6380f0-ae49-4ff2-8a77-4ac96a2e163c" />
+<img width="1773" height="529" alt="Screenshot 2025-07-02 111055" src="https://github.com/user-attachments/assets/0cd1b6d5-2292-4cce-8481-383957b14e1c" />
+
